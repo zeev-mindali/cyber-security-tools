@@ -7,6 +7,7 @@ Cyber Security Tools
 
 ### Kali Tools
 
+* [lazyscript](https://github.com/arismelachroinos/lscript) - The AIO script for Kali lazy hackers.
 * [Kali Tool List](https://tools.kali.org/tools-listing) - Kali Linux Tools Listing.
 
 ### Multi-paradigm Frameworks
@@ -52,6 +53,7 @@ Cyber Security Tools
 * [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
 * [SQLmate](https://github.com/UltimateHackers/sqlmate) - A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
 * [JCS](https://github.com/TheM4hd1/JCS) - Joomla Vulnerability Component Scanner with automatic database updater from exploitdb and packetstorm.
+
 
 ### Network Tools
 
@@ -415,6 +417,7 @@ Cyber Security Tools
 * [Web Application Security Assessment Report Template](http://lucideus.com/pdf/stw.pdf) - Sample Web application security assessment reporting template provided by Lucideus.
 
 ### More Tools
+
 * [Target Scanner](https://github.com/lismore/TargetScanner) - Target Scanner is a penetration testing utility that quickly automates common tasks when assessing a target.
 * [exploit-db-search](https://github.com/techgaun/exploit-db-search) - Exploitdb Search.
 * [punk.py](https://github.com/r3vn/punk.py) - unix SSH post-exploitation 1337 tool.
@@ -458,5 +461,25 @@ Cyber Security Tools
 * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
 * [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 
+### GUI/Web
 
-
+* [binaryninja](https://binary.ninja/) - A commercial interactive decompiler, disassembler, debugger & binary analyser.
+* [RetDec](https://github.com/avast/retdec) - The avast decompilation utility.
+* [ghidra](https://web.archive.org/web/20210629042914/https://www.ghidra-sre.org/) - Reverse engineering tool, by the NSA.
+* [Hashcat-GUI](https://share.blandyuk.co.uk/apps/HashcatGUI_v1.3.1.zip) - hashcat GUI for Windows.
+* [packeth](https://packeth.sourceforge.net/) - A CLI/GUI packets builder & generator.
+* [AIR](https://sourceforge.net/projects/air-imager/) - Storage Imaging & restoration GUI.
+* [Hosted Scan](https://hostedscan.com) - Automated vulnerability scanner.
+* [AnyRun](https://app.any.run) - Online sandbox for malware analysis.
+* [CyberChef](https://gchq.github.io/CyberChef/) - A web-app with a lot of great cyber tools.
+* [Hybrid Analysis](https://hybrid-analysis.com) - Free automated malware analyzer by Falcon.
+* [wireshark](https://wireshark.org) - A network sniffing tool.
+* [zenmap](https://nmap.org/zenmap) - NMap security scanner official GUI.
+* [hatching triage](https://hatching.io) - A free cloud sandbox for individuals & researchers.
+* [Hashkiller](https://hashkiller.io) - A hashes cracking forum with a lot of online tools.
+* [URLscan](https://urlscan.io) - A free online urls scanner for malicious activity.
+* [OSV](osv.dev) - A vulnerabilities DB for the open source community, by Google.
+* [Kodachi](https://digi77.com) - A privacy & security focused linux distribution.
+* [Parrot]() - A debian based linux distro, focused on the developer privacy & security.
+* [Sphere browser](https://sphere.tenebris.cc) - Create hundreds of fake identities within a few seconds.
+* [hexed.it](https://hexed.it) - An online hex editor.
