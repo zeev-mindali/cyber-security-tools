@@ -51,7 +51,7 @@ Cyber Security Tools
 * [cms-explorer](https://code.google.com/archive/p/cms-explorer/) - Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running.
 * [joomscan](https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) - Joomla vulnerability scanner.
 * [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
-* [SQLmate](https://github.com/UltimateHackers/sqlmate) - A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
+* [SQLmate](https://github.com/UltimateHackers/sqlmate) - A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website.
 * [JCS](https://github.com/TheM4hd1/JCS) - Joomla Vulnerability Component Scanner with automatic database updater from exploitdb and packetstorm.
 
 
