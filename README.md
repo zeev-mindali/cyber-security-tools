@@ -7,7 +7,7 @@ Cyber Security Tools
 
 ### Kali Tools
 
-* [lazyscript](https://github.com/arismelachroinos/lscript) - The AIO script for Kali lazy hackers.
+* [The lazyscript](https://github.com/arismelachroinos/lscript) - The all-in-one script for Kali lazy hackers.
 * [Kali Tool List](https://tools.kali.org/tools-listing) - Kali Linux Tools Listing.
 
 ### Multi-paradigm Frameworks
@@ -93,11 +93,9 @@ Cyber Security Tools
  * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
  * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
 
-
 #### Cryptography
 
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
-  
 
 #### Exfiltration Tools
 
@@ -463,23 +461,23 @@ Cyber Security Tools
 
 ### GUI/Web
 
-* [binaryninja](https://binary.ninja/) - A commercial interactive decompiler, disassembler, debugger & binary analyser.
+* [BinaryNinja](https://binary.ninja/) - A commercial interactive decompiler, disassembler, debugger & binary analyser.
 * [RetDec](https://github.com/avast/retdec) - The avast decompilation utility.
-* [ghidra](https://web.archive.org/web/20210629042914/https://www.ghidra-sre.org/) - Reverse engineering tool, by the NSA.
+* [Ghidra](https://web.archive.org/web/20210629042914/https://www.ghidra-sre.org/) - Reverse engineering tool, by the NSA.
 * [Hashcat-GUI](https://share.blandyuk.co.uk/apps/HashcatGUI_v1.3.1.zip) - hashcat GUI for Windows.
-* [packeth](https://packeth.sourceforge.net/) - A CLI/GUI packets builder & generator.
+* [Packeth](https://packeth.sourceforge.net/) - A CLI/GUI packets builder & generator.
 * [AIR](https://sourceforge.net/projects/air-imager/) - Storage Imaging & restoration GUI.
 * [Hosted Scan](https://hostedscan.com) - Automated vulnerability scanner.
 * [AnyRun](https://app.any.run) - Online sandbox for malware analysis.
 * [CyberChef](https://gchq.github.io/CyberChef/) - A web-app with a lot of great cyber tools.
 * [Hybrid Analysis](https://hybrid-analysis.com) - Free automated malware analyzer by Falcon.
-* [wireshark](https://wireshark.org) - A network sniffing tool.
+* [Wireshark](https://wireshark.org) - A network sniffing tool.
 * [zenmap](https://nmap.org/zenmap) - NMap security scanner official GUI.
-* [hatching triage](https://hatching.io) - A free cloud sandbox for individuals & researchers.
+* [Hatching Triage](https://hatching.io) - A free cloud sandbox for individuals & researchers.
 * [Hashkiller](https://hashkiller.io) - A hashes cracking forum with a lot of online tools.
 * [URLscan](https://urlscan.io) - A free online urls scanner for malicious activity.
-* [OSV](osv.dev) - A vulnerabilities DB for the open source community, by Google.
+* [OSV](https://osv.dev) - A vulnerabilities DB for the open source community, by Google.
 * [Kodachi](https://digi77.com) - A privacy & security focused linux distribution.
-* [Parrot]() - A debian based linux distro, focused on the developer privacy & security.
+* [Parrot](https://www.parrotsec.org/) - A debian based linux distro, focused on the developer privacy & security.
 * [Sphere browser](https://sphere.tenebris.cc) - Create hundreds of fake identities within a few seconds.
 * [hexed.it](https://hexed.it) - An online hex editor.
