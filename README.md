@@ -328,6 +328,7 @@ Cyber Security Tools
 * [BinGoo](https://github.com/Hood3dRob1n/BinGoo) - GNU/Linux bash based Bing and Google Dorking Tool.
 * [fast-recon](https://github.com/DanMcInerney/fast-recon) - Perform Google dorks against a domain.
 * [snitch](https://github.com/Smaash/snitch) - Information gathering via dorks.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform. 50 specialist agents over MCP, 80+ offensive tools, proof of exploitation on every finding, runs locally.
 * [Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner.
 * [Threat Crowd](https://www.threatcrowd.org/) - Search engine for threats.
 * [Virus Total](https://www.virustotal.com/) - Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
